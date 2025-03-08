@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "476715547262",
+    "project_id": "shoppiewell",
+    "storage_bucket": "shoppiewell.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476715547262:android:46bc0490e2368e29c4f62f",
+        "android_client_info": {
+          "package_name": "com.example.shoppie_well"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEG_bf80U1EhKOvFyTGllBGyjFyBSJGr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
